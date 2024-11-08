@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/vanshagarwal/Documents/Project - 1/Next JS /Backend/venv/bin/python3.12" "$0" "$@"
+'''exec' "/Users/vanshagarwal/Documents/Project - 1/Artiura/Backend/venv/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
